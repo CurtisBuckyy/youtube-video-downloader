@@ -1,4 +1,4 @@
-# Youtube Video Dwnloader:
+# Youtube Video Downloader:
 YouTube Video Downloader GUI based tool for mp3 and mp4 files.
 
 # Software Information:
